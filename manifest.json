@@ -7,6 +7,10 @@
     {
       "name": "McNUG",
       "backstory": "Herbologist"
+    },
+    {
+      "name": "Samael Dion-Dhruva McGregor",
+      "backstory": "Cloud Cartographer"
     }
   ],
   "backstories": [
@@ -55,6 +59,7 @@
     "Child",
     "Child Care Worker",
     "Circus Performer",
+    "Cloud Cartographer",
     "Coach",
     "Coffee Barista",
     "Coin Collector",
