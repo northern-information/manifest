@@ -31,6 +31,10 @@
     {
       "name": "Escerchie Oriston",
       "backstory": "Mystic"
+    },
+    {
+      "name": "Dothidéo Minteri",
+      "backstory": "Smuggler"
     }
   ],
   "backstories": [
@@ -245,6 +249,7 @@
     "Singer",
     "Small Engine Repairperson",
     "Snow Shoveller",
+    "Smuggler",
     "Soldier",
     "Soldier of Fortune",
     "Somnambulist",
